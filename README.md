@@ -1,4 +1,4 @@
-# SAM-Med2D \[[Paper](https://arxiv.org/abs/2308.16184)]
+# MuGu
 [![Open in OpenXLab](https://cdn-static.openxlab.org.cn/app-center/openxlab_app.svg)](https://openxlab.org.cn/apps/detail/GMAI/SAM-Med2D)
 </a> 
 <a src="https://img.shields.io/badge/Data-SAMed2D_20M-blue?logo=red" href="https://openxlab.org.cn/datasets/GMAI/SA-Med2D-20M"> <img src="https://img.shields.io/badge/Data-SAMed2D_20M-blue?logo=red">
